@@ -65,21 +65,6 @@ spotify-audio-features-analysis/
 | **ML** | Scikit-learn (KMeans, RandomForest), UMAP |
 | **Notebooks** | Jupyter Lab |
 
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/yourusername/spotify-audio-features-analysis.git
-cd spotify-audio-features-analysis
-pip install -r requirements.txt
-
-# Generate sample data
-python src/generate_data.py
-
-# Run analyses
-python src/eda.py
-python src/clustering.py
-python src/popularity_model.py
-```
 
 ## 📈 Key Insights
 
