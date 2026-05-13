@@ -149,8 +149,7 @@ features = sp.audio_features(track_ids)
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- GitHub: nisakayaa
 
 ---
 
