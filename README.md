@@ -5,9 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Featured-purple.svg)]()
 
-> **⭐ Featured Niche Project** – A data-driven look at the audio DNA of hit songs.
 
-## 🎯 Project Overview
 
 Why do some songs blow up while others don't? Using Spotify's audio feature API data (danceability, energy, valence, tempo, etc.), this project explores the **sonic signature of popular tracks** across genres and decades.
 
