@@ -131,9 +131,7 @@ features = sp.audio_features(track_ids)
 
 [MIT](LICENSE)
 
-## 👤 Author
 
-**Your Name**
 - GitHub: nisakayaa
 
 ---
